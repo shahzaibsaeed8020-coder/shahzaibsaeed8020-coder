@@ -34,8 +34,8 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=shahzaibsaeed8020-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=shahzaibsaeed8020-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shahzaibsaeed8020-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahzaibsaeed8020-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
 </p>
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=shahzaibsaeed8020-coder&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
