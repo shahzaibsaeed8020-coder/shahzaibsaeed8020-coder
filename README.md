@@ -25,6 +25,12 @@
 - 🛍️ Building an **e-commerce brand**
 - 📺 Running **2 YouTube channels**: [RavenTale](https://www.youtube.com/@raventalehistory) & [PastFactz](https://www.youtube.com/@PastFactz-h5z)
 
+## 🎓 Education
+
+- 🏛️ **Iqra University**, North Campus: BS Computer Science (BSCS), *in progress*<br/><sub>Plot 204-205, Sector 7B/1, North Karachi, Karachi</sub>
+- 🏫 **D.J. Sindh Govt. Science College**: Intermediate<br/><sub>Near Burns Road, Karachi</sub>
+- 📚 **The Educators**, Shadman Town Campus: Matriculation<br/><sub>Shadman Town, Karachi</sub>
+
 ## 🛠️ Tech stack
 
 <p align="left">
