@@ -14,7 +14,7 @@
 ## 👨‍💻 About me
 
 - 🎓 Student at **Iqra University**, Karachi
-- ☕ Focused on **Java** and **object-oriented design**
+- ☕ Coding in **Java**, **C** and **C++**, with a focus on **object-oriented design**
 - 🎬 Creator of two history channels on YouTube, from research and script to the final edit
 - 🛒 Building an e-commerce brand from the ground up
 - 🌱 Learning in public: my practice code lives here
@@ -28,7 +28,7 @@
 ## 🛠️ Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode,idea&theme=dark" alt="Java, Python, HTML, CSS, JavaScript, Git, GitHub, VS Code, IntelliJ"/>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,git,github,vscode,idea&theme=dark" alt="Java, C, C++, Python, HTML, CSS, JavaScript, Git, GitHub, VS Code, IntelliJ"/>
 </p>
 
 ## 📊 GitHub stats
