@@ -27,9 +27,9 @@
 
 ## 🎓 Education
 
-- 🏛️ **Iqra University**, North Campus: BS Computer Science (BSCS), *in progress*<br/><sub>Plot 204-205, Sector 7B/1, North Karachi, Karachi</sub>
-- 🏫 **D.J. Sindh Govt. Science College**: Intermediate<br/><sub>Near Burns Road, Karachi</sub>
-- 📚 **The Educators**, Shadman Town Campus: Matriculation<br/><sub>Shadman Town, Karachi</sub>
+- 🏛️ **Iqra University**, North Campus: BS Computer Science (BSCS), *2025 – Present*<br/><sub>Plot 204-205, Sector 7B/1, North Karachi, Karachi</sub>
+- 🏫 **D.J. Sindh Govt. Science College**: Intermediate, *2025*<br/><sub>Near Burns Road, Karachi</sub>
+- 📚 **The Educators**, Shadman Town Campus: Matriculation, *2023*<br/><sub>Shadman Town, Karachi</sub>
 
 ## 🛠️ Tech stack
 
