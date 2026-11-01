@@ -36,7 +36,7 @@
 ### 📊 GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzaibsaeed8020-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=shahzaibsaeed8020-coder&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
