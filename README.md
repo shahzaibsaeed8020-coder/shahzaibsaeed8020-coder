@@ -1,44 +1,58 @@
-<h1 align="center">Hi 👋, I'm Muhammad Shahzaib Saeed</h1>
-<h3 align="center">Student · Java learner · YouTube creator from Karachi, Pakistan 🇵🇰</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.youtube.com/@raventalehistory"><img src="https://img.shields.io/badge/YouTube-RavenTale-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="RavenTale on YouTube"/></a>
-  <a href="https://www.youtube.com/@PastFactz-h5z"><img src="https://img.shields.io/badge/YouTube-PastFactz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="PastFactz on YouTube"/></a>
-  <img src="https://komarev.com/ghpvc/?username=shahzaibsaeed8020-coder&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=190&section=header&text=Muhammad%20Shahzaib%20Saeed&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Java%20Developer%20%C2%B7%20Content%20Creator%20%C2%B7%20Builder&descSize=17&descAlignY=58" width="100%" alt="Muhammad Shahzaib Saeed"/>
+
+<a href="https://github.com/shahzaibsaeed8020-coder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Java+%26+OOP+learner+at+Iqra+University;History+storyteller+on+YouTube;Building+an+e-commerce+brand;Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing intro"/></a>
+
+<p>
+  <a href="https://www.youtube.com/@raventalehistory"><img src="https://img.shields.io/badge/RavenTale-History%20Mysteries-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="RavenTale on YouTube"/></a>
+  <a href="https://www.youtube.com/@PastFactz-h5z"><img src="https://img.shields.io/badge/PastFactz-Forgotten%20History-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="PastFactz on YouTube"/></a>
 </p>
 
----
+</div>
 
-### 🙋‍♂️ About me
+## 👨‍💻 About me
 
 - 🎓 Student at **Iqra University**, Karachi
-- 🌱 Currently learning **Java & Object-Oriented Programming (OOP)**
-- 🎬 I make history videos on YouTube: mysteries, forgotten stories and the people behind them
-- 🛒 Building my first online store (coming soon)
-- 📫 Find me on my YouTube channels below
+- ☕ Focused on **Java** and **object-oriented design**
+- 🎬 Creator of two history channels on YouTube, from research and script to the final edit
+- 🛒 Building an e-commerce brand from the ground up
+- 🌱 Learning in public: my practice code lives here
 
-### 📺 My YouTube channels
+## 🚀 Currently
 
-| Channel | What it's about |
-|---|---|
-| [**RavenTale**](https://www.youtube.com/@raventalehistory) | History's unsolved mysteries |
-| [**PastFactz**](https://www.youtube.com/@PastFactz-h5z) | Forgotten history and surprising facts |
+- 📘 Learning **Java OOP & design patterns** at university
+- 🛍️ Building an **e-commerce brand**
+- 📺 Running **2 YouTube channels**: [RavenTale](https://www.youtube.com/@raventalehistory) & [PastFactz](https://www.youtube.com/@PastFactz-h5z)
 
-### 🛠️ Skills & tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-learning-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-basics-3776AB?style=flat-square&logo=python&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video%20Editing-000000?style=flat-square)
-![AI Tools](https://img.shields.io/badge/AI%20content%20tools-412991?style=flat-square&logo=openai&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-
-### 📊 GitHub stats
+## 🛠️ Tech stack
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=shahzaibsaeed8020-coder&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode,idea&theme=dark" alt="Java, Python, HTML, CSS, JavaScript, Git, GitHub, VS Code, IntelliJ"/>
 </p>
 
----
+## 📊 GitHub stats
 
-<p align="center"><i>Learning something new every day 🚀</i></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=shahzaibsaeed8020-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=shahzaibsaeed8020-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+</p>
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=shahzaibsaeed8020-coder&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
+</p>
+
+## 🤝 Connect
+
+<p>
+  <a href="https://www.youtube.com/@raventalehistory"><img src="https://img.shields.io/badge/YouTube-RavenTale-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="RavenTale"/></a>
+  <a href="https://www.youtube.com/@PastFactz-h5z"><img src="https://img.shields.io/badge/YouTube-PastFactz-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="PastFactz"/></a>
+  <a href="https://github.com/shahzaibsaeed8020-coder"><img src="https://img.shields.io/badge/GitHub-shahzaibsaeed8020--coder-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<div align="center">
+
+> *"The expert in anything was once a beginner."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt=""/>
+
+</div>
